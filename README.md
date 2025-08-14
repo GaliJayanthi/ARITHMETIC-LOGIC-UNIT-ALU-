@@ -21,3 +21,7 @@ Here's how it works:
 The ALU uses operation codes to determine what to do. For example, if the code is 000, it might perform addition. If the code is 010, it might perform an AND operation.
 
 Overall, designing an ALU is like building a complex digital circuit that can perform a variety of operations. It's a crucial part of computer architecture, and it's used in pretty much every computer processor out there.
+
+
+*OUTPUT*:
+<img width="1842" height="312" alt="Image" src="https://github.com/user-attachments/assets/48a9f0da-f54d-4730-8301-ae935bf55734" />
